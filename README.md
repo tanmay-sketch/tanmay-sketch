@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tanmay, I am an undergrad studying Data Science at Michigan State University. I'm interested in all Python & AI things!
+My name is Tanmay, I am an undergrad studying Computational data Science. I'm interested in all Python & AI things!
 
 - 🔭 I’m currently working on Rubyrizz, a rubiks cube solving bot. 
 - 🌱 I’m currently learning PyTorch.
