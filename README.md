@@ -2,7 +2,6 @@
 
 My name is Tanmay, I am an undergrad studying Computational Data Science. I'm interested in all Python & AI things!
 
-- 🔭 I’m currently working on Rubyrizz, a rubiks cube solving bot. 
 - 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate on any AI/ML projects
 
