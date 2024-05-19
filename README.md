@@ -2,7 +2,7 @@
 
 My name is Tanmay, I am an undergrad studying Computational Data Science. I'm interested in all Python & AI things!
 
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning Pytorch.
 - 👯 I’m looking to collaborate on any AI/ML projects
 
 <!--
