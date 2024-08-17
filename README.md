@@ -7,7 +7,7 @@ My name is Tanmay, I am an undergrad studying Computational Data Science. I'm in
 
 [![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmay-sketch&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-sketch&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-sketch&layout=compact&theme=dark)
 
 <!--
 **tanmay-sketch/tanmay-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
