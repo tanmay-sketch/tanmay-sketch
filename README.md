@@ -5,8 +5,6 @@ My name is Tanmay, I am an undergrad studying Computational Data Science. I'm in
 - 🌱 I’m currently learning Pytorch.
 - 👯 I’m looking to collaborate on any AI/ML projects
 
-[![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmay-sketch&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-sketch&layout=compact&theme=dark)
 
 <!--
