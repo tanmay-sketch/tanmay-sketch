@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-My name is Tanmay, I am an undergrad studying Computational Data Science. I'm interested in all Python & AI things!
+I like to build things.
 
-- 🌱 I’m currently learning Pytorch.
-- 👯 I’m looking to collaborate on any AI/ML projects
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-sketch&layout=compact&theme=dark)
+![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmay-sketch)
 
 <!--
 **tanmay-sketch/tanmay-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
